@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="welcome">Welcome to the Yadav calculator!</string>
+    <string name="firstText">Enter a number</string>
+    <string name="secondText">Enter a number</string>
+    <string name="subtractButton">Subtract</string>
+    <string name="addButton">Add</string>
+    <string name="multiplicationButton">Multiply</string>
+    <string name="clear">CC</string>
+</resources>
